@@ -232,3 +232,38 @@ body {
   margin: 25px;
   margin-top: 100px;
 }
+
+
+/* 'TS': 'ts',
+            'WoO': 'woo',
+            'LOLMS': 'lolms',
+            'Football': 'football',
+            'F1': 'f1',
+            'Indycar': 'indy',
+            'XR': 'xr',
+            'Other': 'other' */
+
+.ts {
+  background-color: #736D63;
+  color: #ffffff;
+}
+
+.woo {
+  background-color: rgb(229,142,26);
+  color: #000000;
+}
+
+.lolms {
+  background-color: #373737;
+  color: #ffffff;
+}
+
+.football {
+  background-color: #825736;
+  color: #ffffff;
+}
+
+.f1 {
+  background-color: #DF0501;
+  color: #ffffff;
+}

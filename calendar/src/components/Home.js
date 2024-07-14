@@ -6,7 +6,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 const Home = () => {
     return (
-        <div>
+        <div className='container'>
 
         </div>
     );

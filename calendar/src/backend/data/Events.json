@@ -1,0 +1,2146 @@
+[
+    {
+        "date": "3/17/23",
+        "title": "Glendale N1",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "3/18/23",
+        "title": "Glendale N2",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "3/24/23",
+        "title": "Las Vegas N1",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "3/25/23",
+        "title": "Las Vegas N2",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "3/31/23",
+        "title": "Arlington N1",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "4/1/23",
+        "title": "Arlington N2",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "4/2/23",
+        "title": "Arlington N3",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "4/13/23",
+        "title": "Tampa N1",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "4/14/23",
+        "title": "Tampa N2",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "4/15/23",
+        "title": "Tampa N3",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "4/21/23",
+        "title": "Houston N1",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "4/22/23",
+        "title": "Houston N2",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "4/23/23",
+        "title": "Houston N3",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "4/28/23",
+        "title": "Atlanta N1",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "4/29/23",
+        "title": "Atlanta N2",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "4/30/23",
+        "title": "Atlanta N3",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "5/5/23",
+        "title": "Nashville N1",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "5/6/23",
+        "title": "Nashville N2",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "5/7/23",
+        "title": "Nashville N3",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "5/12/23",
+        "title": "Philadelphia N1",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "5/13/23",
+        "title": "Philadelphia N2",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "5/14/23",
+        "title": "Philadelphia N3",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "5/19/23",
+        "title": "Foxborough N1",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "5/20/23",
+        "title": "Foxborough N2",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "5/21/23",
+        "title": "Foxborough N3",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "5/26/23",
+        "title": "East Rutherford N1",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "5/27/23",
+        "title": "East Rutherford N2",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "5/28/23",
+        "title": "East Rutherford N3",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "6/2/23",
+        "title": "Chicago N1",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "6/3/23",
+        "title": "Chicago N2",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "6/4/23",
+        "title": "Chicago N3",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "6/9/23",
+        "title": "Detroit N1",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "6/10/23",
+        "title": "Detroit N2",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "6/16/23",
+        "title": "Pittsburgh N1",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "6/17/23",
+        "title": "Pittsburgh N2",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "6/23/23",
+        "title": "Minneapolis N1",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "6/24/23",
+        "title": "Minneapolis N2",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "6/30/23",
+        "title": "Cincinnati N1",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "7/1/23",
+        "title": "Cincinnati N2",
+        "category": "TS",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "7/7/23",
+        "title": "Kansas City N1",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "7/8/23",
+        "title": "Kansas City N2",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "7/14/23",
+        "title": "Denver N1",
+        "category": "TS",
+        "time": "7:30 PM"
+    },
+    {
+        "date": "7/15/23",
+        "title": "Denver N2",
+        "category": "TS",
+        "time": "7:30 PM"
+    },
+    {
+        "date": "7/22/23",
+        "title": "Seattle N1",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "7/23/23",
+        "title": "Seattle N2",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "7/28/23",
+        "title": "Santa Clara N1",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "7/29/23",
+        "title": "Santa Clara N2",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "8/3/23",
+        "title": "Los Angeles N1",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "8/4/23",
+        "title": "Los Angeles N2",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "8/5/23",
+        "title": "Los Angeles N3",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "8/7/23",
+        "title": "Los Angeles N4",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "8/8/23",
+        "title": "Los Angeles N5",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "8/9/23",
+        "title": "Los Angeles N6",
+        "category": "TS",
+        "time": "8:30 PM"
+    },
+    {
+        "date": "8/24/23",
+        "title": "Mexico City N1",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "8/25/23",
+        "title": "Mexico City N2",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "8/26/23",
+        "title": "Mexico City N3",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "8/27/23",
+        "title": "Mexico City N4",
+        "category": "TS",
+        "time": "6:30 PM"
+    },
+    {
+        "date": "9/12/23",
+        "title": "VMAs",
+        "category": "TS",
+        "time": "7:00 PM"
+    },
+    {
+        "date": "9/24/23",
+        "title": "Chiefs vs. Bears",
+        "category": "Football",
+        "time": "3:25 PM"
+    },
+    {
+        "date": "10/1/23",
+        "title": "Chiefs vs. Jets",
+        "category": "Football",
+        "time": "7:20 PM"
+    },
+    {
+        "date": "10/8/23",
+        "title": "Chiefs vs. Vikings",
+        "category": "Football",
+        "time": "3:25 PM"
+    },
+    {
+        "date": "10/12/23",
+        "title": "Chiefs vs. Broncos",
+        "category": "Football",
+        "time": "7:15 PM"
+    },
+    {
+        "date": "10/22/23",
+        "title": "Chiefs vs. Chargers",
+        "category": "Football",
+        "time": "3:25 PM"
+    },
+    {
+        "date": "11/9/23",
+        "title": "Buenos Aires N1",
+        "category": "TS",
+        "time": "3:30 PM"
+    },
+    {
+        "date": "11/11/23",
+        "title": "Buenos Aires N2",
+        "category": "TS",
+        "time": "3:30 PM"
+    },
+    {
+        "date": "11/12/23",
+        "title": "Buenos Aires N3",
+        "category": "TS",
+        "time": "3:30 PM"
+    },
+    {
+        "date": "11/17/23",
+        "title": "Rio de Janeiro N1",
+        "category": "TS",
+        "time": "3:30 PM"
+    },
+    {
+        "date": "11/19/23",
+        "title": "Rio de Janeiro N2",
+        "category": "TS",
+        "time": "3:30 PM"
+    },
+    {
+        "date": "11/20/23",
+        "title": "Rio de Janeiro N3",
+        "category": "TS",
+        "time": "3:30 PM"
+    },
+    {
+        "date": "11/24/23",
+        "title": "Sao Paulo N1",
+        "category": "TS",
+        "time": "3:30 PM"
+    },
+    {
+        "date": "11/25/23",
+        "title": "Sao Paulo N2",
+        "category": "TS",
+        "time": "3:30 PM"
+    },
+    {
+        "date": "11/26/23",
+        "title": "Sao Paulo N3",
+        "category": "TS",
+        "time": "3:30 PM"
+    },
+    {
+        "date": "12/3/23",
+        "title": "Chiefs vs. Packers",
+        "category": "Football",
+        "time": "7:20 PM"
+    },
+    {
+        "date": "12/10/23",
+        "title": "Chiefs vs. Bills",
+        "category": "Football",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "12/17/23",
+        "title": "Chiefs vs. Patriots",
+        "category": "Football",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "12/25/23",
+        "title": "Chiefs vs. Raiders",
+        "category": "Football",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "12/31/23",
+        "title": "Chiefs vs. Bengals",
+        "category": "Football",
+        "time": "3:25 PM"
+    },
+    {
+        "date": "1/7/24",
+        "title": "The Golden Globes",
+        "category": "TS",
+        "time": "7:00 PM"
+    },
+    {
+        "date": "1/13/24",
+        "title": "Chiefs vs. Dolphins",
+        "category": "Football",
+        "time": "7:00 PM"
+    },
+    {
+        "date": "1/21/24",
+        "title": "Chiefs vs. Bills",
+        "category": "Football",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "1/28/24",
+        "title": "Chiefs vs. Ravens",
+        "category": "Football",
+        "time": "2:00 PM"
+    },
+    {
+        "date": "2/4/24",
+        "title": "The Grammy Awards",
+        "category": "TS",
+        "time": "7 PM"
+    },
+    {
+        "date": "2/7/24",
+        "title": "Tokyo N1",
+        "category": "TS",
+        "time": "3:30 AM"
+    },
+    {
+        "date": "2/8/24",
+        "title": "Tokyo N2",
+        "category": "TS",
+        "time": "3:30 AM"
+    },
+    {
+        "date": "2/9/24",
+        "title": "Tokyo N3",
+        "category": "TS",
+        "time": "3:30 AM"
+    },
+    {
+        "date": "2/10/24",
+        "title": "Tokyo N4",
+        "category": "TS",
+        "time": "3:30 AM"
+    },
+    {
+        "date": "2/11/24",
+        "title": "The Superbowl",
+        "category": "Football",
+        "time": "5:30 PM"
+    },
+    {
+        "date": "2/16/24",
+        "title": "Melbourne N1",
+        "category": "TS",
+        "time": "1:30 AM"
+    },
+    {
+        "date": "2/17/24",
+        "title": "Melbourne N2",
+        "category": "TS",
+        "time": "1:30 AM"
+    },
+    {
+        "date": "2/17/24",
+        "title": "Melbourne N3",
+        "category": "TS",
+        "time": "1:30 AM"
+    },
+    {
+        "date": "2/23/24",
+        "title": "Sydney N1",
+        "category": "TS",
+        "time": "1:30 AM"
+    },
+    {
+        "date": "2/24/24",
+        "title": "Sydney N2",
+        "category": "TS",
+        "time": "1:30 AM"
+    },
+    {
+        "date": "2/25/24",
+        "title": "Sydney N3",
+        "category": "TS",
+        "time": "1:30 AM"
+    },
+    {
+        "date": "3/2/24",
+        "title": "Singapore N1",
+        "category": "TS",
+        "time": "4:30 AM"
+    },
+    {
+        "date": "3/3/24",
+        "title": "Singapore N2",
+        "category": "TS",
+        "time": "4:30 AM"
+    },
+    {
+        "date": "3/4/24",
+        "title": "Jason Kelce Retirement Announcement",
+        "category": "Football",
+        "time": "1:00 PM"
+    },
+    {
+        "date": "3/4/24",
+        "title": "Singapore N3",
+        "category": "TS",
+        "time": "4:30 AM"
+    },
+    {
+        "date": "3/7/24",
+        "title": "Singapore N4",
+        "category": "TS",
+        "time": "4:30 AM"
+    },
+    {
+        "date": "3/8/24",
+        "title": "Singapore N5",
+        "category": "TS",
+        "time": "4:30 AM"
+    },
+    {
+        "date": "3/9/24",
+        "title": "Singapore N6",
+        "category": "TS",
+        "time": "4:30 AM"
+    },
+    {
+        "date": "3/15/24",
+        "title": "Eras Tour Movie (Taylor's Version) Release",
+        "category": "TS",
+        "time": "9:00 PM"
+    },
+    {
+        "date": "4/16/24",
+        "title": "Spotify Library Installation",
+        "category": "",
+        "time": ""
+    },
+    {
+        "date": "4/17/24",
+        "title": "Spotify Library Installation",
+        "category": "",
+        "time": ""
+    },
+    {
+        "date": "4/18/24",
+        "title": "Spotify Library Installation",
+        "category": "",
+        "time": ""
+    },
+    {
+        "date": "4/18/24",
+        "title": "The Tortured Poets Department Release",
+        "category": "TS",
+        "time": "11:00 PM"
+    },
+    {
+        "date": "4/19/24",
+        "title": "Music Video",
+        "category": "TS",
+        "time": "7 PM"
+    },
+    {
+        "date": "4/20/24",
+        "title": "Record Store Day",
+        "category": "",
+        "time": ""
+    },
+    {
+        "date": "5/9/24",
+        "title": "Paris N1",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "5/10/24",
+        "title": "Paris N2",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "5/11/24",
+        "title": "Paris N3",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "5/12/24",
+        "title": "Paris N4",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "5/16/24",
+        "title": "TTPD Voice Memos",
+        "category": "TS",
+        "time": "11:00 PM"
+    },
+    {
+        "date": "5/17/24",
+        "title": "Stockholm N1",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "5/18/24",
+        "title": "Stockholm N2",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "5/19/24",
+        "title": "Stockholm N3",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "5/24/24",
+        "title": "Lisbon N1",
+        "category": "TS",
+        "time": "12:15 PM"
+    },
+    {
+        "date": "5/25/24",
+        "title": "Lisbon N2",
+        "category": "TS",
+        "time": "12:15 PM"
+    },
+    {
+        "date": "5/29/24",
+        "title": "Madrid N1",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "5/30/24",
+        "title": "Madrid N2",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "6/2/24",
+        "title": "Lyon N1",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "6/3/24",
+        "title": "Lyon N2",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "6/7/24",
+        "title": "Edinburgh N1",
+        "category": "TS",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "6/8/24",
+        "title": "Edinburgh N2",
+        "category": "TS",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "6/9/24",
+        "title": "Edinburgh N3",
+        "category": "TS",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "6/13/24",
+        "title": "Liverpool N1",
+        "category": "TS",
+        "time": "12:15 PM"
+    },
+    {
+        "date": "6/14/24",
+        "title": "Liverpool N2",
+        "category": "TS",
+        "time": "12:15 PM"
+    },
+    {
+        "date": "6/15/24",
+        "title": "Liverpool N3",
+        "category": "TS",
+        "time": "12:15 PM"
+    },
+    {
+        "date": "6/18/24",
+        "title": "Cardiff",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "6/20/24",
+        "title": "us. by Gracie Abrams feat. Taylor Swift",
+        "category": "TS",
+        "time": "11:00 AM"
+    },
+    {
+        "date": "6/21/24",
+        "title": "London N1",
+        "category": "TS",
+        "time": "11:25 AM"
+    },
+    {
+        "date": "6/22/24",
+        "title": "London N2",
+        "category": "TS",
+        "time": "11:25 AM"
+    },
+    {
+        "date": "6/23/24",
+        "title": "London N3",
+        "category": "TS",
+        "time": "11:25 AM"
+    },
+    {
+        "date": "6/28/24",
+        "title": "Dublin N1",
+        "category": "TS",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "6/29/24",
+        "title": "Dublin N2",
+        "category": "TS",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "6/30/24",
+        "title": "Dublin N3",
+        "category": "TS",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "7/4/24",
+        "title": "Amsterdam N1",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "7/5/24",
+        "title": "Amsterdam N2",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "7/6/24",
+        "title": "Amsterdam N3",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "7/9/24",
+        "title": "Zurich N1",
+        "category": "TS",
+        "time": "10:45 AM"
+    },
+    {
+        "date": "7/10/24",
+        "title": "Zurich N2",
+        "category": "TS",
+        "time": "10:45 AM"
+    },
+    {
+        "date": "7/13/24",
+        "title": "Milan N1",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "7/13/24",
+        "title": "Late Model Showdown",
+        "category": "WoO",
+        "time": "5:30 PM",
+        "track": "Sharon Speedway",
+        "city": "Hartford, OH"
+    },
+    {
+        "date": "7/14/24",
+        "title": "Milan N2",
+        "category": "TS",
+        "time": "11:45 AM"
+    },
+    {
+        "date": "7/15/24",
+        "title": "High Bank Heist",
+        "category": "LOLMS",
+        "time": "5:30 PM",
+        "track": "Eagle Raceway",
+        "city": "Eagle, NE"
+    },
+    {
+        "date": "7/16/24",
+        "title": "Kosiski Family 53",
+        "category": "LOLMS",
+        "time": "6:30 PM",
+        "track": "Shelby County Speedway",
+        "city": "Harlan, IA"
+    },
+    {
+        "date": "7/17/24",
+        "title": "Gelsenkirchen N1",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "7/18/24",
+        "title": "Silver Dollar Nationals",
+        "category": "LOLMS",
+        "time": "6:30 PM",
+        "track": "Huset's Speedway",
+        "city": "Brandon, SD"
+    },
+    {
+        "date": "7/18/24",
+        "title": "Gelsenkirchen N2",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "7/19/24",
+        "title": "Hungary Practice 1",
+        "category": "F1",
+        "time": "6:30 AM",
+        "track": "Hungaroring",
+        "city": "Budapest, Hungary"
+    },
+    {
+        "date": "7/19/24",
+        "title": "Hungary Practice 2",
+        "category": "F1",
+        "time": "10 AM",
+        "track": "Hungaroring",
+        "city": "Budapest, Hungary"
+    },
+    {
+        "date": "7/19/24",
+        "title": "Silver Dollar Nationals",
+        "category": "LOLMS",
+        "time": "6:30 PM",
+        "track": "Huset's Speedway",
+        "city": "Brandon, SD"
+    },
+    {
+        "date": "7/19/24",
+        "title": "Gelsenkirchen N3",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "7/20/24",
+        "title": "Hungary Practice 3",
+        "category": "F1",
+        "time": "5:30 AM",
+        "track": "Hungaroring",
+        "city": "Budapest, Hungary"
+    },
+    {
+        "date": "7/20/24",
+        "title": "Hungary Qualifying",
+        "category": "F1",
+        "time": "9 AM",
+        "track": "Hungaroring",
+        "city": "Budapest, Hungary"
+    },
+    {
+        "date": "7/20/24",
+        "title": "Silver Dollar Nationals",
+        "category": "LOLMS",
+        "time": "6:30 PM",
+        "track": "Huset's Speedway",
+        "city": "Brandon, SD"
+    },
+    {
+        "date": "7/21/24",
+        "title": "Hungarian Grand Prix",
+        "category": "F1",
+        "time": "8 AM",
+        "track": "Hungaroring",
+        "city": "Budapest, Hungary"
+    },
+    {
+        "date": "7/23/24",
+        "title": "Hamburg N1",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "7/24/24",
+        "title": "Hamburg N2",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "7/26/24",
+        "title": "Belgium Practice 1",
+        "category": "F1",
+        "time": "6:30 AM",
+        "track": "Circuit de Spa-Francorchamps",
+        "city": "Stavelot, Belgium"
+    },
+    {
+        "date": "7/26/24",
+        "title": "Belgium Practice 2",
+        "category": "F1",
+        "time": "10 AM",
+        "track": "Circuit de Spa-Francorchamps",
+        "city": "Stavelot, Belgium"
+    },
+    {
+        "date": "7/26/24",
+        "title": "Praire Dirt Classic",
+        "category": "WoO",
+        "time": "5:30 PM",
+        "track": "Fairbury Speedway",
+        "city": "Fairbury, IL"
+    },
+    {
+        "date": "7/27/24",
+        "title": "Belgium Practice 3",
+        "category": "F1",
+        "time": "5:30 AM",
+        "track": "Circuit de Spa-Francorchamps",
+        "city": "Stavelot, Belgium"
+    },
+    {
+        "date": "7/27/24",
+        "title": "Belgium Qualifying",
+        "category": "F1",
+        "time": "9 AM",
+        "track": "Circuit de Spa-Francorchamps",
+        "city": "Stavelot, Belgium"
+    },
+    {
+        "date": "7/27/24",
+        "title": "Munich N1",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "7/27/24",
+        "title": "Praire Dirt Classic",
+        "category": "WoO",
+        "time": "5:30 PM",
+        "track": "Fairbury Speedway",
+        "city": "Fairbury, IL"
+    },
+    {
+        "date": "7/28/24",
+        "title": "Belgian Grand Prix",
+        "category": "F1",
+        "time": "8 AM",
+        "track": "Circuit de Spa-Francorchamps",
+        "city": "Stavelot, Belgium"
+    },
+    {
+        "date": "7/28/24",
+        "title": "Munich N2",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "7/29/24",
+        "title": "Late Model Showdown",
+        "category": "WoO",
+        "time": "6:30 PM",
+        "track": "Wilmot Raceway",
+        "city": "Wilmot, WI"
+    },
+    {
+        "date": "8/1/24",
+        "title": "Warsaw N1",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "8/1/24",
+        "title": "USA Nationals",
+        "category": "WoO",
+        "time": "6:30 PM",
+        "track": "Cedar Lake Speedway",
+        "city": "New Richmond, WI"
+    },
+    {
+        "date": "8/2/24",
+        "title": "Warsaw N2",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "8/2/24",
+        "title": "USA Nationals",
+        "category": "WoO",
+        "time": "6:30 PM",
+        "track": "Cedar Lake Speedway",
+        "city": "New Richmond, WI"
+    },
+    {
+        "date": "8/3/24",
+        "title": "Warsaw N3",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "8/3/24",
+        "title": "USA Nationals",
+        "category": "WoO",
+        "time": "6:30 PM",
+        "track": "Cedar Lake Speedway",
+        "city": "New Richmond, WI"
+    },
+    {
+        "date": "8/8/24",
+        "title": "North/South 100",
+        "category": "LOLMS",
+        "time": "6 PM",
+        "track": "Florence Speedway",
+        "city": "Walton, KY"
+    },
+    {
+        "date": "8/8/24",
+        "title": "Vienna N1",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "8/9/24",
+        "title": "North/South 100",
+        "category": "LOLMS",
+        "time": "6 PM",
+        "track": "Florence Speedway",
+        "city": "Walton, KY"
+    },
+    {
+        "date": "8/9/24",
+        "title": "Vienna N2",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "8/10/24",
+        "title": "Chiefs at Jaguars",
+        "category": "Football",
+        "time": "7:00 PM"
+    },
+    {
+        "date": "8/10/24",
+        "title": "North/South 100",
+        "category": "LOLMS",
+        "time": "6 PM",
+        "track": "Florence Speedway",
+        "city": "Walton, KY"
+    },
+    {
+        "date": "8/10/24",
+        "title": "Vienna N3",
+        "category": "TS",
+        "time": "11:15 AM"
+    },
+    {
+        "date": "8/14/24",
+        "title": "Beat the Heat 40",
+        "category": "WoO",
+        "time": "",
+        "track": "Highland Speedway",
+        "city": "Highland, IL"
+    },
+    {
+        "date": "8/15/24",
+        "title": "London N1",
+        "category": "TS",
+        "time": "11:10 AM"
+    },
+    {
+        "date": "8/15/24",
+        "title": "Late Model Showdown",
+        "category": "WoO",
+        "time": "6:30 PM",
+        "track": "Spoon River Speedway",
+        "city": "Lewistown, IL"
+    },
+    {
+        "date": "8/16/24",
+        "title": "Topless 100",
+        "category": "LOLMS",
+        "time": "",
+        "track": "Batesville Motor Speedway",
+        "city": "Locust Grove, AR"
+    },
+    {
+        "date": "8/16/24",
+        "title": "London N2",
+        "category": "TS",
+        "time": "11:10 AM"
+    },
+    {
+        "date": "8/16/24",
+        "title": "Late Model Showdown",
+        "category": "WoO",
+        "time": "6:30 PM",
+        "track": "Maquoketa Speedway",
+        "city": "Maquoketa, IA"
+    },
+    {
+        "date": "8/17/24",
+        "title": "Chiefs vs. Lions",
+        "category": "Football",
+        "time": "3:00 PM"
+    },
+    {
+        "date": "8/17/24",
+        "title": "Topless 100",
+        "category": "LOLMS",
+        "time": "",
+        "track": "Batesville Motor Speedway",
+        "city": "Locust Grove, AR"
+    },
+    {
+        "date": "8/17/24",
+        "title": "London N3",
+        "category": "TS",
+        "time": "11:10 AM"
+    },
+    {
+        "date": "8/17/24",
+        "title": "Late Model Showdown",
+        "category": "WoO",
+        "time": "6:30 PM",
+        "track": "Maquoketa Speedway",
+        "city": "Maquoketa, IA"
+    },
+    {
+        "date": "8/19/24",
+        "title": "London N4",
+        "category": "TS",
+        "time": "11:10 AM"
+    },
+    {
+        "date": "8/20/24",
+        "title": "London N5",
+        "category": "TS",
+        "time": "11:10 AM"
+    },
+    {
+        "date": "8/22/24",
+        "title": "Chiefs vs. Bears",
+        "category": "Football",
+        "time": ""
+    },
+    {
+        "date": "8/23/24",
+        "title": "Dutch Practice 1",
+        "category": "F1",
+        "time": "5:30 AM",
+        "track": "Circuit Zandvoort",
+        "city": "Zandvoort, Netherlands"
+    },
+    {
+        "date": "8/23/24",
+        "title": "Dutch Practice 2",
+        "category": "F1",
+        "time": "9 AM",
+        "track": "Circuit Zandvoort",
+        "city": "Zandvoort, Netherlands"
+    },
+    {
+        "date": "8/23/24",
+        "title": "Rumble by the River",
+        "category": "LOLMS",
+        "time": "5 PM",
+        "track": "Port Royal Speedway",
+        "city": "Port Royal, PA"
+    },
+    {
+        "date": "8/23/24",
+        "title": "Fireball 50",
+        "category": "WoO",
+        "time": "5 PM",
+        "track": "Atomic Speedway",
+        "city": "Chillicothe, OH"
+    },
+    {
+        "date": "8/24/24",
+        "title": "Dutch Practice 3",
+        "category": "F1",
+        "time": "4:30 AM",
+        "track": "Circuit Zandvoort",
+        "city": "Zandvoort, Netherlands"
+    },
+    {
+        "date": "8/24/24",
+        "title": "Dutch Qualifying",
+        "category": "F1",
+        "time": "8 AM",
+        "track": "Circuit Zandvoort",
+        "city": "Zandvoort, Netherlands"
+    },
+    {
+        "date": "8/24/24",
+        "title": "Rumble by the River",
+        "category": "LOLMS",
+        "time": "5 PM",
+        "track": "Port Royal Speedway",
+        "city": "Port Royal, PA"
+    },
+    {
+        "date": "8/24/24",
+        "title": "Fireball 50",
+        "category": "WoO",
+        "time": "3 PM",
+        "track": "Atomic Speedway",
+        "city": "Chillicothe, OH"
+    },
+    {
+        "date": "8/25/24",
+        "title": "Dutch Grand Prix",
+        "category": "F1",
+        "time": "8 AM",
+        "track": "Circuit Zandvoort",
+        "city": "Zandvoort, Netherlands"
+    },
+    {
+        "date": "8/30/24",
+        "title": "Italy Practice 1",
+        "category": "F1",
+        "time": "6:30 AM",
+        "track": "Autodromo Nazionale Monza",
+        "city": "Monza, Italy"
+    },
+    {
+        "date": "8/30/24",
+        "title": "Italy Practice 2",
+        "category": "F1",
+        "time": "10 AM",
+        "track": "Autodromo Nazionale Monza",
+        "city": "Monza, Italy"
+    },
+    {
+        "date": "8/31/24",
+        "title": "Italy Practice 3",
+        "category": "F1",
+        "time": "5:30 AM",
+        "track": "Autodromo Nazionale Monza",
+        "city": "Monza, Italy"
+    },
+    {
+        "date": "8/31/24",
+        "title": "Italy Qualifying",
+        "category": "F1",
+        "time": "9 AM",
+        "track": "Autodromo Nazionale Monza",
+        "city": "Monza, Italy"
+    },
+    {
+        "date": "8/31/24",
+        "title": "River Days Rumble",
+        "category": "LOLMS",
+        "time": "",
+        "track": "Portsmouth Raceway Park",
+        "city": "Portsmouth, OH"
+    },
+    {
+        "date": "9/1/24",
+        "title": "Italian Grand Prix",
+        "category": "F1",
+        "time": "8 AM",
+        "track": "Autodromo Nazionale Monza",
+        "city": "Monza, Italy"
+    },
+    {
+        "date": "9/1/24",
+        "title": "Hillbilly Hundred",
+        "category": "LOLMS",
+        "time": "5 PM",
+        "track": "Tyler County Speedway",
+        "city": "Middlebourne, WV"
+    },
+    {
+        "date": "9/5/2024",
+        "title": "Chiefs vs. Ravens",
+        "category": "Football",
+        "time": "7:20 PM"
+    },
+    {
+        "date": "9/10/24",
+        "title": "VMAs",
+        "category": "TS",
+        "time": "7:00 PM"
+    },
+    {
+        "date": "9/13/24",
+        "title": "Azerbaijan Practice 1",
+        "category": "F1",
+        "time": "4:30 AM",
+        "track": "Baku City Circuit",
+        "city": "Baku, Azerbaijan"
+    },
+    {
+        "date": "9/13/24",
+        "title": "Azerbaijan Practice 2",
+        "category": "F1",
+        "time": "8 AM",
+        "track": "Baku City Circuit",
+        "city": "Baku, Azerbaijan"
+    },
+    {
+        "date": "9/14/24",
+        "title": "Azerbaijan Practice 3",
+        "category": "F1",
+        "time": "3:30 AM",
+        "track": "Baku City Circuit",
+        "city": "Baku, Azerbaijan"
+    },
+    {
+        "date": "9/14/24",
+        "title": "Azerbaijan Qualifying",
+        "category": "F1",
+        "time": "7 AM",
+        "track": "Baku City Circuit",
+        "city": "Baku, Azerbaijan"
+    },
+    {
+        "date": "9/14/24",
+        "title": "Late Model Showdown",
+        "category": "WoO",
+        "time": "",
+        "track": "Senoia Raceway",
+        "city": "Senoia, GA"
+    },
+    {
+        "date": "9/15/24",
+        "title": "Azerbaijan Grand Prix",
+        "category": "F1",
+        "time": "6 AM",
+        "track": "Baku City Circuit",
+        "city": "Baku, Azerbaijan"
+    },
+    {
+        "date": "9/15/24",
+        "title": "Chiefs vs. Bengals",
+        "category": "Football",
+        "time": "3:25 PM"
+    },
+    {
+        "date": "9/15/24",
+        "title": "Alabama Gang 100",
+        "category": "WoO",
+        "time": "",
+        "track": "Talladega Short Track",
+        "city": "Eastaboga, AL"
+    },
+    {
+        "date": "9/19/24",
+        "title": "Lucas Oil Late Model Nationals",
+        "category": "LOLMS",
+        "time": "",
+        "track": "Knoxville Raceway",
+        "city": "Knoxville, IA"
+    },
+    {
+        "date": "9/20/24",
+        "title": "Singapore Practice 1",
+        "category": "F1",
+        "time": "4:30 AM",
+        "track": "Marina Bay Street Circuit",
+        "city": "Marina Bay, Singapore"
+    },
+    {
+        "date": "9/20/24",
+        "title": "Singapore Practice 2",
+        "category": "F1",
+        "time": "8 AM",
+        "track": "Marina Bay Street Circuit",
+        "city": "Marina Bay, Singapore"
+    },
+    {
+        "date": "9/20/24",
+        "title": "Lucas Oil Late Model Nationals",
+        "category": "LOLMS",
+        "time": "",
+        "track": "Knoxville Raceway",
+        "city": "Knoxville, IA"
+    },
+    {
+        "date": "9/21/24",
+        "title": "Singapore Practice 3",
+        "category": "F1",
+        "time": "4:30 AM",
+        "track": "Marina Bay Street Circuit",
+        "city": "Marina Bay, Singapore"
+    },
+    {
+        "date": "9/21/24",
+        "title": "Singapore Qualifying",
+        "category": "F1",
+        "time": "8 AM",
+        "track": "Marina Bay Street Circuit",
+        "city": "Marina Bay, Singapore"
+    },
+    {
+        "date": "9/21/24",
+        "title": "Lucas Oil Late Model Nationals",
+        "category": "LOLMS",
+        "time": "",
+        "track": "Knoxville Raceway",
+        "city": "Knoxville, IA"
+    },
+    {
+        "date": "9/22/24",
+        "title": "Singapore Grand Prix",
+        "category": "F1",
+        "time": "7 AM",
+        "track": "Marina Bay Street Circuit",
+        "city": "Marina Bay, Singapore"
+    },
+    {
+        "date": "9/22/24",
+        "title": "Chiefs at Falcons",
+        "category": "Football",
+        "time": "7:20 PM"
+    },
+    {
+        "date": "9/27/24",
+        "title": "CJ Rayburn Memorial",
+        "category": "LOLMS",
+        "time": "",
+        "track": "Brownstown Speedway",
+        "city": "Brownstown, IN"
+    },
+    {
+        "date": "9/27/24",
+        "title": "Late Model Showdown",
+        "category": "WoO",
+        "time": "",
+        "track": "Boothill Speedway",
+        "city": "Greenwood, LA"
+    },
+    {
+        "date": "9/28/24",
+        "title": "Jackson 100",
+        "category": "LOLMS",
+        "time": "",
+        "track": "Brownstown Speedway",
+        "city": "Brownstown, IN"
+    },
+    {
+        "date": "9/28/24",
+        "title": "Texas Torpedo 50",
+        "category": "WoO",
+        "time": "",
+        "track": "Rocket Raceway Park",
+        "city": "Petty, TX"
+    },
+    {
+        "date": "9/29/24",
+        "title": "Chiefs at Chargers",
+        "category": "Football",
+        "time": "3:25 PM"
+    },
+    {
+        "date": "10/1/24",
+        "title": "The Night the Stars Come Out",
+        "category": "LOLMS",
+        "time": "5 PM",
+        "track": "Atomic Speedway",
+        "city": "Chillicothe, OH"
+    },
+    {
+        "date": "10/4/24",
+        "title": "Pittsburgher",
+        "category": "LOLMS",
+        "time": "5 PM",
+        "track": "Pittsburgh Pennsylvania Motor Speedway",
+        "city": "Imperial, PA"
+    },
+    {
+        "date": "10/5/24",
+        "title": "Pittsburgher",
+        "category": "LOLMS",
+        "time": "5 PM",
+        "track": "Pittsburgh Pennsylvania Motor Speedway",
+        "city": "Imperial, PA"
+    },
+    {
+        "date": "10/7/24",
+        "title": "Chiefs vs. Saints",
+        "category": "Football",
+        "time": "7:15 PM"
+    },
+    {
+        "date": "10/10/24",
+        "title": "The Grand Finale",
+        "category": "LOLMS",
+        "time": "",
+        "track": "East Bay Raceway Park",
+        "city": "Tampa, FL"
+    },
+    {
+        "date": "10/11/24",
+        "title": "The Grand Finale",
+        "category": "LOLMS",
+        "time": "",
+        "track": "East Bay Raceway Park",
+        "city": "Tampa, FL"
+    },
+    {
+        "date": "10/12/24",
+        "title": "The Grand Finale",
+        "category": "LOLMS",
+        "time": "",
+        "track": "East Bay Raceway Park",
+        "city": "Tampa, FL"
+    },
+    {
+        "date": "10/18/24",
+        "title": "United States Practice 1",
+        "category": "F1",
+        "time": "12:30 PM",
+        "track": "Circuit of The Americas",
+        "city": "Austin, TX"
+    },
+    {
+        "date": "10/18/24",
+        "title": "United States Sprint Qualifying",
+        "category": "F1",
+        "time": "4:30 PM",
+        "track": "Circuit of The Americas",
+        "city": "Austin, TX"
+    },
+    {
+        "date": "10/18/24",
+        "title": "Dirt Track World Championship",
+        "category": "LOLMS",
+        "time": "",
+        "track": "Eldora Speedway",
+        "city": "Rossburg, OH"
+    },
+    {
+        "date": "10/18/24",
+        "title": "Miami N1",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "10/19/24",
+        "title": "United States Sprint",
+        "category": "F1",
+        "time": "1 PM",
+        "track": "Circuit of The Americas",
+        "city": "Austin, TX"
+    },
+    {
+        "date": "10/19/24",
+        "title": "United States Qualifying",
+        "category": "F1",
+        "time": "5 PM",
+        "track": "Circuit of The Americas",
+        "city": "Austin, TX"
+    },
+    {
+        "date": "10/19/24",
+        "title": "Dirt Track World Championship",
+        "category": "LOLMS",
+        "time": "",
+        "track": "Eldora Speedway",
+        "city": "Rossburg, OH"
+    },
+    {
+        "date": "10/19/24",
+        "title": "Miami N2",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "10/20/24",
+        "title": "United States Grand Prix",
+        "category": "F1",
+        "time": "2 PM",
+        "track": "Circuit of The Americas",
+        "city": "Austin, TX"
+    },
+    {
+        "date": "10/20/24",
+        "title": "Chiefs at 49ers",
+        "category": "Football",
+        "time": "3:25 PM"
+    },
+    {
+        "date": "10/20/24",
+        "title": "Miami N3",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "10/25/24",
+        "title": "Mexico Practice 1",
+        "category": "F1",
+        "time": "1:30 PM",
+        "track": "Autodromo Hermanos Rodriguez",
+        "city": "Mexico City, Mexico"
+    },
+    {
+        "date": "10/25/24",
+        "title": "Mexico Practice 2",
+        "category": "F1",
+        "time": "5 PM",
+        "track": "Autodromo Hermanos Rodriguez",
+        "city": "Mexico City, Mexico"
+    },
+    {
+        "date": "10/25/24",
+        "title": "New Orleans N1",
+        "category": "TS",
+        "time": "7:00 PM"
+    },
+    {
+        "date": "10/26/24",
+        "title": "Mexico Practice 3",
+        "category": "F1",
+        "time": "12:30 PM",
+        "track": "Autodromo Hermanos Rodriguez",
+        "city": "Mexico City, Mexico"
+    },
+    {
+        "date": "10/26/24",
+        "title": "Mexico Qualifying",
+        "category": "F1",
+        "time": "4 PM",
+        "track": "Autodromo Hermanos Rodriguez",
+        "city": "Mexico City, Mexico"
+    },
+    {
+        "date": "10/26/24",
+        "title": "New Orleans N2",
+        "category": "TS",
+        "time": "7:00 PM"
+    },
+    {
+        "date": "10/27/24",
+        "title": "Mexican Grand Prix",
+        "category": "F1",
+        "time": "3 PM",
+        "track": "Autodromo Hermanos Rodriguez",
+        "city": "Mexico City, Mexico"
+    },
+    {
+        "date": "10/27/24",
+        "title": "Chiefs at Raiders",
+        "category": "Football",
+        "time": "3:25 PM"
+    },
+    {
+        "date": "10/27/24",
+        "title": "New Orleans N3",
+        "category": "TS",
+        "time": "7:00 PM"
+    },
+    {
+        "date": "11/1/24",
+        "title": "Brazil Practice 1",
+        "category": "F1",
+        "time": "9:30 AM",
+        "track": "Autodromo Jose Carlos Pace",
+        "city": "Sao Paulo, Brazil"
+    },
+    {
+        "date": "11/1/24",
+        "title": "Brazil Sprint Qualifying",
+        "category": "F1",
+        "time": "1:30 PM",
+        "track": "Autodromo Jose Carlos Pace",
+        "city": "Sao Paulo, Brazil"
+    },
+    {
+        "date": "11/1/24",
+        "title": "Indianapolis N1",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "11/2/24",
+        "title": "Brazil Sprint",
+        "category": "F1",
+        "time": "9 AM",
+        "track": "Autodromo Jose Carlos Pace",
+        "city": "Sao Paulo, Brazil"
+    },
+    {
+        "date": "11/2/24",
+        "title": "Brazil Qualifying",
+        "category": "F1",
+        "time": "1 PM",
+        "track": "Autodromo Jose Carlos Pace",
+        "city": "Sao Paulo, Brazil"
+    },
+    {
+        "date": "11/2/24",
+        "title": "Indianapolis N2",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "11/3/24",
+        "title": "Brazilian Grand Prix",
+        "category": "F1",
+        "time": "11 AM",
+        "track": "Autodromo Jose Carlos Pace",
+        "city": "Sao Paulo, Brazil"
+    },
+    {
+        "date": "11/3/24",
+        "title": "Indianapolis N3",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "11/4/24",
+        "title": "Chiefs vs. Buccaneers",
+        "category": "Football",
+        "time": "7:15 PM"
+    },
+    {
+        "date": "11/6/24",
+        "title": "World Finals",
+        "category": "WoO",
+        "time": "",
+        "track": "The Dirt Track at Charlotte",
+        "city": "Concord, NC"
+    },
+    {
+        "date": "11/7/24",
+        "title": "World Finals",
+        "category": "WoO",
+        "time": "",
+        "track": "The Dirt Track at Charlotte",
+        "city": "Concord, NC"
+    },
+    {
+        "date": "11/8/24",
+        "title": "World Finals",
+        "category": "WoO",
+        "time": "",
+        "track": "The Dirt Track at Charlotte",
+        "city": "Concord, NC"
+    },
+    {
+        "date": "11/9/24",
+        "title": "World Finals",
+        "category": "WoO",
+        "time": "",
+        "track": "The Dirt Track at Charlotte",
+        "city": "Concord, NC"
+    },
+    {
+        "date": "11/10/24",
+        "title": "Chiefs vs. Broncos",
+        "category": "Football",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "11/14/24",
+        "title": "Toronto N1",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "11/15/24",
+        "title": "Toronto N2",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "11/16/24",
+        "title": "Toronto N3",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "11/17/24",
+        "title": "Chiefs at Bills",
+        "category": "Football",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "11/21/24",
+        "title": "Las Vegas Practice 1",
+        "category": "F1",
+        "time": "8:30 PM",
+        "track": "Las Vegas Strip Circuit",
+        "city": "Las Vegas, NV"
+    },
+    {
+        "date": "11/21/24",
+        "title": "Toronto N4",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "11/22/24",
+        "title": "Las Vegas Practice 2",
+        "category": "F1",
+        "time": "12:00 AM",
+        "track": "Las Vegas Strip Circuit",
+        "city": "Las Vegas, NV"
+    },
+    {
+        "date": "11/22/24",
+        "title": "Las Vegas Practice 3",
+        "category": "F1",
+        "time": "8:30 PM",
+        "track": "Las Vegas Strip Circuit",
+        "city": "Las Vegas, NV"
+    },
+    {
+        "date": "11/22/24",
+        "title": "Toronto N5",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "11/23/24",
+        "title": "Las Vegas Qualifying",
+        "category": "F1",
+        "time": "12 AM",
+        "track": "Las Vegas Strip Circuit",
+        "city": "Las Vegas, NV"
+    },
+    {
+        "date": "11/23/24",
+        "title": "Toronto N6",
+        "category": "TS",
+        "time": "6:00 PM"
+    },
+    {
+        "date": "11/24/24",
+        "title": "Las Vegas Grand Prix",
+        "category": "F1",
+        "time": "12 AM",
+        "track": "Las Vegas Strip Circuit",
+        "city": "Las Vegas, NV"
+    },
+    {
+        "date": "11/24/24",
+        "title": "Chiefs at Panthers",
+        "category": "Football",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "11/29/24",
+        "title": "Qatar Practice 1",
+        "category": "F1",
+        "time": "7:30 AM",
+        "track": "Lusail International Circuit",
+        "city": "Doha, Qatar"
+    },
+    {
+        "date": "11/29/24",
+        "title": "Qatar Sprint Qualifying",
+        "category": "F1",
+        "time": "11:30 AM",
+        "track": "Lusail International Circuit",
+        "city": "Doha, Qatar"
+    },
+    {
+        "date": "11/29/24",
+        "title": "Chiefs vs. Raiders",
+        "category": "Football",
+        "time": "2:00 PM"
+    },
+    {
+        "date": "11/30/24",
+        "title": "Qatar Sprint",
+        "category": "F1",
+        "time": "7 AM",
+        "track": "Lusail International Circuit",
+        "city": "Doha, Qatar"
+    },
+    {
+        "date": "11/30/24",
+        "title": "Qatar Qualifying",
+        "category": "F1",
+        "time": "11 AM",
+        "track": "Lusail International Circuit",
+        "city": "Doha, Qatar"
+    },
+    {
+        "date": "12/1/24",
+        "title": "Qatar Grand Prix",
+        "category": "F1",
+        "time": "10 AM",
+        "track": "Lusail International Circuit",
+        "city": "Doha, Qatar"
+    },
+    {
+        "date": "12/6/24",
+        "title": "Abu Dhabi Practice 1",
+        "category": "F1",
+        "time": "3:30 AM",
+        "track": "Yas Marina Circuit",
+        "city": "Yas Island, Abu Dhabi"
+    },
+    {
+        "date": "12/6/24",
+        "title": "Abu Dhabi Practice 2",
+        "category": "F1",
+        "time": "7 AM",
+        "track": "Yas Marina Circuit",
+        "city": "Yas Island, Abu Dhabi"
+    },
+    {
+        "date": "12/6/24",
+        "title": "Vancouver N1",
+        "category": "TS",
+        "time": "9:00 PM"
+    },
+    {
+        "date": "12/7/24",
+        "title": "Abu Dhabi Practice 3",
+        "category": "F1",
+        "time": "4:30 AM",
+        "track": "Yas Marina Circuit",
+        "city": "Yas Island, Abu Dhabi"
+    },
+    {
+        "date": "12/7/24",
+        "title": "Abu Dhabi Qualifying",
+        "category": "F1",
+        "time": "8 AM",
+        "track": "Yas Marina Circuit",
+        "city": "Yas Island, Abu Dhabi"
+    },
+    {
+        "date": "12/7/24",
+        "title": "Vancouver N2",
+        "category": "TS",
+        "time": "9:00 PM"
+    },
+    {
+        "date": "12/8/24",
+        "title": "Abu Dhabi Grand Prix",
+        "category": "F1",
+        "time": "7 AM",
+        "track": "Yas Marina Circuit",
+        "city": "Yas Island, Abu Dhabi"
+    },
+    {
+        "date": "12/8/24",
+        "title": "Chiefs vs. Chargers",
+        "category": "Football",
+        "time": "7:20 PM"
+    },
+    {
+        "date": "12/8/24",
+        "title": "Vancouver N3",
+        "category": "TS",
+        "time": "9:00 PM"
+    },
+    {
+        "date": "12/15/24",
+        "title": "Chiefs at Browns",
+        "category": "Football",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "12/21/24",
+        "title": "Chiefs vs. Texans",
+        "category": "Football",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "12/25/24",
+        "title": "Chiefs at Steelers",
+        "category": "Football",
+        "time": "12:00 PM"
+    },
+    {
+        "date": "1/4/25",
+        "title": "POSSIBLE: Chiefs at Broncos",
+        "category": "Football",
+        "time": ""
+    },
+    {
+        "date": "1/5/25",
+        "title": "POSSIBLE: Chiefs at Broncos",
+        "category": "Football",
+        "time": ""
+    },
+    {
+        "date": "1/22/25",
+        "title": "Dirtcar Sunshine Nationals Practice",
+        "category": "WoO",
+        "time": "5 PM",
+        "track": "Volusia Speedway Park",
+        "city": "Barberville, FL"
+    },
+    {
+        "date": "1/23/25",
+        "title": "Dirtcar Sunshine Nationals",
+        "category": "WoO",
+        "time": "4 PM",
+        "track": "Volusia Speedway Park",
+        "city": "Barberville, FL"
+    },
+    {
+        "date": "1/24/25",
+        "title": "Dirtcar Sunshine Nationals",
+        "category": "WoO",
+        "time": "4 PM",
+        "track": "Volusia Speedway Park",
+        "city": "Barberville, FL"
+    },
+    {
+        "date": "1/25/25",
+        "title": "Dirtcar Sunshine Nationals",
+        "category": "WoO",
+        "time": "3 PM",
+        "track": "Volusia Speedway Park",
+        "city": "Barberville, FL"
+    },
+    {
+        "date": "2/13/25",
+        "title": "Federated Auto Parts Dirtcar Nationals",
+        "category": "WoO",
+        "time": "",
+        "track": "Volusia Speedway Park",
+        "city": "Barberville, FL"
+    },
+    {
+        "date": "2/14/25",
+        "title": "Federated Auto Parts Dirtcar Nationals",
+        "category": "WoO",
+        "time": "",
+        "track": "Volusia Speedway Park",
+        "city": "Barberville, FL"
+    },
+    {
+        "date": "2/15/25",
+        "title": "Federated Auto Parts Dirtcar Nationals",
+        "category": "WoO",
+        "time": "",
+        "track": "Volusia Speedway Park",
+        "city": "Barberville, FL"
+    },
+    {
+        "date": "7/3/25",
+        "title": "Gopher 50",
+        "category": "WoO",
+        "time": "",
+        "track": "Deer Creek Speedway",
+        "city": "Spring Valley, MN"
+    },
+    {
+        "date": "7/4/25",
+        "title": "Gopher 50",
+        "category": "WoO",
+        "time": "",
+        "track": "Deer Creek Speedway",
+        "city": "Spring Valley, MN"
+    },
+    {
+        "date": "7/5/25",
+        "title": "Gopher 50",
+        "category": "WoO",
+        "time": "",
+        "track": "Deer Creek Speedway",
+        "city": "Spring Valley, MN"
+    }
+]
